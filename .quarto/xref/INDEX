@@ -1,0 +1,23 @@
+{
+  "index.qmd": {
+    "index.html": "3773273b"
+  },
+  "about.qmd": {
+    "about.html": "56960e57"
+  },
+  "projects/Cholera_SIR_Model.qmd": {
+    "Cholera_SIR_Model.html": "a121c7f1"
+  },
+  "projects/ICT_Issues.qmd": {
+    "ICT_Issues.html": "be29a1cb"
+  },
+  "projects/Learning_Insights.qmd": {
+    "Learning_Insights.html": "f3d0cd2d"
+  },
+  "projects/Math_Book.qmd": {
+    "Math_Book.html": "556276b8"
+  },
+  "projects/TB_Article.qmd": {
+    "TB_Article.html": "7611b96c"
+  }
+}

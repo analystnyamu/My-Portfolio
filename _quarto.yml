@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "My Portfolio"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Projects"
+        menu:
+          - text: "Math Book"
+            href: projects/Math_Book.qmd
+          - text: "TB Article"
+            href: projects/TB_Article.qmd
+          - text: "Learning Tech Insights"  # Corrected "Tec" to "Tech" for clarity
+            href: projects/Learning_Insights.qmd 
+          - text: "ICT Issues"
+            href: projects/ICT_Issues.qmd
+          - text: "Cholera SIR Model"
+            href: projects/Cholera_SIR_Model.qmd
+    right:
+      - icon: github
+        href: https://github.com/analystnyamu  # Link to GitHub profile
+
+format:
+  html:
+    theme: default           # Choose a theme, e.g., cosmo, journal, darkly
+    css: styles.css          # Optional custom CSS for additional styling
+    code-fold: true          # Enable code folding for a cleaner display
+    number-sections: true    # Number each section in the document
+    toc: true                # Enable a Table of Contents for improved navigation
+    toc-depth: 2             # Set TOC to display up to level-2 headings

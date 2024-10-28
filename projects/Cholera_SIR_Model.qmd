@@ -1,0 +1,16 @@
+---
+title: "SIR-Cholera Model in Nairobi"
+format: html
+---
+
+# SIR-Cholera Model in Nairobi
+
+This project explores a Susceptible-Infected-Recovered (SIR) model to study cholera transmission dynamics in Nairobi. The model provides insights into the spread and potential control measures for cholera outbreaks.
+
+- **Objective**: To model cholera transmission and assess the impact of public health interventions.
+- **Approach**: Used epidemiological modeling techniques and analyzed key parameters in the SIR framework.
+
+
+## View the PDF
+
+[Read the Full Report](./SIR_Model_Cholera.pdf).

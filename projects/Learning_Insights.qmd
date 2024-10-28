@@ -1,0 +1,13 @@
+---
+title: "Learning Tech Insights"
+format: html
+---
+
+# Learning Tech Insights
+
+This project involves compiling and sharing insights into modern technology trends, designed for those looking to deepen their understanding of emerging technologies.
+
+- **Objective**: To make complex tech concepts accessible and engaging for learners.
+- **Format**: Articles, tutorials, and case studies covering key tech topics.
+
+[Explore Tech Insights](/_book/index.html)

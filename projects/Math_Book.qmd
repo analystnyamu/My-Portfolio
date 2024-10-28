@@ -1,0 +1,16 @@
+---
+title: "Math Book Project"
+format: html
+---
+
+# Math Book Project
+
+This project involved creating a comprehensive math book covering key concepts, examples, and exercises. It’s designed for students and educators to deepen their understanding of essential math topics.
+
+- **Objective**: To enhance learning with structured examples and practice problems.
+- **Status**: Published
+
+This book is available in multiple formats:
+- [html](https://analystnyamu.github.io/EnlighteningMath/)
+- [ePub](https://analystnuamu.quarto.pub/enlightening-mathematics-revision-book-volume-1)
+- [vercel](https://enlightening-math.vercel.app/)

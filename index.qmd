@@ -1,0 +1,34 @@
+---
+title: "Martin Nyamu Wanjiru - Statistician"
+---
+
+# Welcome to My Homepage
+
+Hello! My name is **Martin Nyamu Wanjiru**, a statistician with over five years of experience in data analysis and research. My expertise spans various aspects of **data management, clinical trials research, and statistical analysis**.
+
+## About Me
+
+With a strong background in medical statistics and hands-on experience in **clinical trials research**, I specialize in analyzing and managing complex datasets to provide clear, actionable insights. I am proficient in **data analysis, research methodology, and statistical consulting**.
+
+## Skills and Tools
+
+### Research & Data Analysis
+- Experienced in **clinical trials** and health-related research, focusing on evidence-based results to guide decision-making.
+- Skilled in **data management** and **quality control** for large-scale datasets.
+
+### Technical Skills
+- **Quarto**: Expertise in creating dynamic documents, reports, and presentations.
+- **LaTeX**: Skilled in typesetting documents for publication, particularly in academic and professional contexts.
+- **GitHub**: Proficient in version control, collaborating on projects, and sharing research code.
+
+### Statistical Software
+- **R**: Advanced user for statistical modeling, data wrangling, and visualization.
+- **Python**: Skilled in data analysis, machine learning, and research applications.
+- **Excel**: Proficient in **advanced Excel** for data manipulation and analysis.
+
+## Contact Me
+Feel free to connect with me to learn more about my work or discuss potential collaborations!
+- Email: analystnyamu79@gmail.com
+
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

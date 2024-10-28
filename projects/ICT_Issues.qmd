@@ -1,0 +1,15 @@
+---
+title: "Resolving ICT Issues"
+format: html
+---
+
+# Resolving ICT Issues
+
+In this project, I analyzed and addressed common ICT problems, focusing on solutions for improved system efficiency and user experience.
+
+- **Objective**: To identify and resolve key ICT challenges in various contexts.
+- **Methodology**: Root cause analysis, followed by implementing technical solutions and troubleshooting strategies.
+
+# Read Blog in Details
+
+[Read as html format](index.html)

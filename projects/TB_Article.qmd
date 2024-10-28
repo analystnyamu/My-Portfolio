@@ -1,0 +1,16 @@
+---
+title: "TB Article"
+format: html
+---
+
+# Investigating TB Epidemics in East Africa
+
+This article delves into the determinants of active tuberculosis epidemics in Eastern African countries, providing insights into health data, trends, and key takeaways.
+
+- **Objective**: To analyze regional TB trends and suggest actionable insights.
+- **Status**: Published
+
+## Download Formats
+
+- [View HTML Version](https://htmlpreview.github.io/?https://github.com/analystnyamu/TB-Article/blob/master/TB-Article.html)
+- [Download PDF Version](TB-Article.pdf)

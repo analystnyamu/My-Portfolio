@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "projects/TB_Article.html",
+    "href": "projects/TB_Article.html",
+    "title": "TB Article",
+    "section": "",
+    "text": "This article delves into the determinants of active tuberculosis epidemics in Eastern African countries, providing insights into health data, trends, and key takeaways.\n\nObjective: To analyze regional TB trends and suggest actionable insights.\nStatus: Published\n\n\n\n\nView HTML Version\nDownload PDF Version"
+  },
+  {
+    "objectID": "projects/TB_Article.html#download-formats",
+    "href": "projects/TB_Article.html#download-formats",
+    "title": "TB Article",
+    "section": "",
+    "text": "View HTML Version\nDownload PDF Version"
+  },
+  {
+    "objectID": "projects/Learning_Insights.html",
+    "href": "projects/Learning_Insights.html",
+    "title": "Learning Tech Insights",
+    "section": "",
+    "text": "Learning Tech Insights\nThis project involves compiling and sharing insights into modern technology trends, designed for those looking to deepen their understanding of emerging technologies.\n\nObjective: To make complex tech concepts accessible and engaging for learners.\nFormat: Articles, tutorials, and case studies covering key tech topics.\n\nExplore Tech Insights"
+  },
+  {
+    "objectID": "projects/Cholera_SIR_Model.html",
+    "href": "projects/Cholera_SIR_Model.html",
+    "title": "SIR-Cholera Model in Nairobi",
+    "section": "",
+    "text": "This project explores a Susceptible-Infected-Recovered (SIR) model to study cholera transmission dynamics in Nairobi. The model provides insights into the spread and potential control measures for cholera outbreaks.\n\nObjective: To model cholera transmission and assess the impact of public health interventions.\nApproach: Used epidemiological modeling techniques and analyzed key parameters in the SIR framework.\n\n\n\nRead the Full Report."
+  },
+  {
+    "objectID": "projects/Cholera_SIR_Model.html#view-the-pdf",
+    "href": "projects/Cholera_SIR_Model.html#view-the-pdf",
+    "title": "SIR-Cholera Model in Nairobi",
+    "section": "",
+    "text": "Read the Full Report."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Martin Nyamu Wanjiru - Statistician",
+    "section": "",
+    "text": "Hello! My name is Martin Nyamu Wanjiru, a statistician with over five years of experience in data analysis and research. My expertise spans various aspects of data management, clinical trials research, and statistical analysis.\n\n\nWith a strong background in medical statistics and hands-on experience in clinical trials research, I specialize in analyzing and managing complex datasets to provide clear, actionable insights. I am proficient in data analysis, research methodology, and statistical consulting.\n\n\n\n\n\n\nExperienced in clinical trials and health-related research, focusing on evidence-based results to guide decision-making.\nSkilled in data management and quality control for large-scale datasets.\n\n\n\n\n\nQuarto: Expertise in creating dynamic documents, reports, and presentations.\nLaTeX: Skilled in typesetting documents for publication, particularly in academic and professional contexts.\nGitHub: Proficient in version control, collaborating on projects, and sharing research code.\n\n\n\n\n\nR: Advanced user for statistical modeling, data wrangling, and visualization.\nPython: Skilled in data analysis, machine learning, and research applications.\nExcel: Proficient in advanced Excel for data manipulation and analysis.\n\n\n\n\n\nFeel free to connect with me to learn more about my work or discuss potential collaborations! - Email: analystnyamu79@gmail.com\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Martin Nyamu Wanjiru - Statistician",
+    "section": "",
+    "text": "With a strong background in medical statistics and hands-on experience in clinical trials research, I specialize in analyzing and managing complex datasets to provide clear, actionable insights. I am proficient in data analysis, research methodology, and statistical consulting."
+  },
+  {
+    "objectID": "index.html#skills-and-tools",
+    "href": "index.html#skills-and-tools",
+    "title": "Martin Nyamu Wanjiru - Statistician",
+    "section": "",
+    "text": "Experienced in clinical trials and health-related research, focusing on evidence-based results to guide decision-making.\nSkilled in data management and quality control for large-scale datasets.\n\n\n\n\n\nQuarto: Expertise in creating dynamic documents, reports, and presentations.\nLaTeX: Skilled in typesetting documents for publication, particularly in academic and professional contexts.\nGitHub: Proficient in version control, collaborating on projects, and sharing research code.\n\n\n\n\n\nR: Advanced user for statistical modeling, data wrangling, and visualization.\nPython: Skilled in data analysis, machine learning, and research applications.\nExcel: Proficient in advanced Excel for data manipulation and analysis."
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "Martin Nyamu Wanjiru - Statistician",
+    "section": "",
+    "text": "Feel free to connect with me to learn more about my work or discuss potential collaborations! - Email: analystnyamu79@gmail.com\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "projects/ICT_Issues.html",
+    "href": "projects/ICT_Issues.html",
+    "title": "Resolving ICT Issues",
+    "section": "",
+    "text": "Resolving ICT Issues\nIn this project, I analyzed and addressed common ICT problems, focusing on solutions for improved system efficiency and user experience.\n\nObjective: To identify and resolve key ICT challenges in various contexts.\nMethodology: Root cause analysis, followed by implementing technical solutions and troubleshooting strategies.\n\n\n\nRead Blog in Details\nRead as html format"
+  },
+  {
+    "objectID": "projects/Math_Book.html",
+    "href": "projects/Math_Book.html",
+    "title": "Math Book Project",
+    "section": "",
+    "text": "Math Book Project\nThis project involved creating a comprehensive math book covering key concepts, examples, and exercises. It’s designed for students and educators to deepen their understanding of essential math topics.\n\nObjective: To enhance learning with structured examples and practice problems.\nStatus: Published\n\nThis book is available in multiple formats: - html - ePub - vercel"
+  }
+]

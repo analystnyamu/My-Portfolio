@@ -12,4 +12,4 @@ In this project, I analyzed and addressed common ICT problems, focusing on solut
 
 # Read Blog in Details
 
-[Read as html format](index.html)
+[Read as html format](./index.html)

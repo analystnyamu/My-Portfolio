@@ -18,7 +18,7 @@
     "href": "projects/Learning_Insights.html",
     "title": "Learning Tech Insights",
     "section": "",
-    "text": "1 Learning Tech Insights\nThis project involves compiling and sharing insights into modern technology trends, designed for those looking to deepen their understanding of emerging technologies.\n\nObjective: To make complex tech concepts accessible and engaging for learners.\nFormat: Articles, tutorials, and case studies covering key tech topics.\n\nExplore Tech Insights"
+    "text": "1 Learning Tech Insights\nThis project involves compiling and sharing insights into modern technology trends, designed for those looking to deepen their understanding of emerging technologies.\n\nObjective: To make complex tech concepts accessible and engaging for learners.\nFormat: Articles, tutorials, and case studies covering key tech topics.\n\nRead the Learning Insights Book"
   },
   {
     "objectID": "projects/Cholera_SIR_Model.html",
@@ -28,8 +28,8 @@
     "text": "This project explores a Susceptible-Infected-Recovered (SIR) model to study cholera transmission dynamics in Nairobi. The model provides insights into the spread and potential control measures for cholera outbreaks.\n\nObjective: To model cholera transmission and assess the impact of public health interventions.\nApproach: Used epidemiological modeling techniques and analyzed key parameters in the SIR framework.\n\n\n\nRead the Full Report."
   },
   {
-    "objectID": "projects/Cholera_SIR_Model.html#view-the-pdf",
-    "href": "projects/Cholera_SIR_Model.html#view-the-pdf",
+    "objectID": "projects/Cholera_SIR_Model.html#view-the-html-file",
+    "href": "projects/Cholera_SIR_Model.html#view-the-html-file",
     "title": "SIR-Cholera Model in Nairobi",
     "section": "",
     "text": "Read the Full Report."
@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "Martin Nyamu Wanjiru - Statistician",
     "section": "",
-    "text": "Hello! My name is Martin Nyamu Wanjiru, a statistician with over five years of experience in data analysis and research. My expertise spans various aspects of data management, clinical trials research, and statistical analysis.\n\n\nWith a strong background in medical statistics and hands-on experience in clinical trials research, I specialize in analyzing and managing complex datasets to provide clear, actionable insights. I am proficient in data analysis, research methodology, and statistical consulting.\n\n\n\n\n\n\nExperienced in clinical trials and health-related research, focusing on evidence-based results to guide decision-making.\nSkilled in data management and quality control for large-scale datasets.\n\n\n\n\n\nQuarto: Expertise in creating dynamic documents, reports, and presentations.\nLaTeX: Skilled in typesetting documents for publication, particularly in academic and professional contexts.\nGitHub: Proficient in version control, collaborating on projects, and sharing research code.\n\n\n\n\n\nR: Advanced user for statistical modeling, data wrangling, and visualization.\nPython: Skilled in data analysis, machine learning, and research applications.\nExcel: Proficient in advanced Excel for data manipulation and analysis.\n\n\n\n\n\nFeel free to connect with me to learn more about my work or discuss potential collaborations! - Email: analystnyamu79@gmail.com\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hello! My name is Martin Nyamu Wanjiru, a statistician with over five years of experience in data analysis and research. My expertise spans various aspects of data management, clinical trials research, and statistical analysis.\n\n\nWith a strong background in medical statistics and hands-on experience in clinical trials research, I specialize in analyzing and managing complex datasets to provide clear, actionable insights. I am proficient in data analysis, research methodology, and statistical consulting.\n\n\n\n\n\n\nExperienced in clinical trials and health-related research, focusing on evidence-based results to guide decision-making.\nSkilled in data management and quality control for large-scale datasets.\n\n\n\n\n\nQuarto: Expertise in creating dynamic documents, reports, and presentations.\nLaTeX: Skilled in typesetting documents for publication, particularly in academic and professional contexts.\nGitHub: Proficient in version control, collaborating on projects, and sharing research code.\n\n\n\n\n\nR: Advanced user for statistical modeling, data wrangling, and visualization.\nPython: Skilled in data analysis, machine learning, and research applications.\nExcel: Proficient in advanced Excel for data manipulation and analysis.\n\n\n\n\n\nFeel free to connect with me to learn more about my work or discuss potential collaborations!\n\nEmail: analystnyamu79@gmail.com\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "index.html#about-me",
@@ -67,7 +67,7 @@
     "href": "index.html#contact-me",
     "title": "Martin Nyamu Wanjiru - Statistician",
     "section": "",
-    "text": "Feel free to connect with me to learn more about my work or discuss potential collaborations! - Email: analystnyamu79@gmail.com\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Feel free to connect with me to learn more about my work or discuss potential collaborations!\n\nEmail: analystnyamu79@gmail.com\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "projects/ICT_Issues.html",

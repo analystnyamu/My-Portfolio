@@ -11,6 +11,6 @@ This project explores a Susceptible-Infected-Recovered (SIR) model to study chol
 - **Approach**: Used epidemiological modeling techniques and analyzed key parameters in the SIR framework.
 
 
-## View the PDF
+## View the html file
 
-[Read the Full Report](./SIR_Model_Cholera.pdf).
+[Read the Full Report](./SIR_Model_Cholera.html).

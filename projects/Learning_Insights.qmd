@@ -10,4 +10,4 @@ This project involves compiling and sharing insights into modern technology tren
 - **Objective**: To make complex tech concepts accessible and engaging for learners.
 - **Format**: Articles, tutorials, and case studies covering key tech topics.
 
-[Explore Tech Insights](/_book/index.html)
+[Read the Learning Insights Book](https://analystnyamu.github.io/Learning-Insights/)

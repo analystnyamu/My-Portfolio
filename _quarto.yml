@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "My Portfolio"
@@ -30,4 +31,4 @@ format:
     code-fold: true          # Enable code folding for a cleaner display
     number-sections: true    # Number each section in the document
     toc: true                # Enable a Table of Contents for improved navigation
-    toc-depth: 2             # Set TOC to display up to level-2 headings
+  

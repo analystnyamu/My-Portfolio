@@ -1,35 +1,156 @@
 ---
-title: "Martin Nyamu Wanjiru - Statistician"
+title: "Martin Nyamu Wanjiru | Statistician & Mathematics Tutor"
+subtitle: "Data Analyst • Clinical Trials Researcher • Statistical Consultant"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    page-layout: full
 ---
 
-# Welcome to My Homepage
+# Welcome to My Portfolio
 
-Hello! My name is **Martin Nyamu Wanjiru**, a statistician with over five years of experience in data analysis and research. My expertise spans various aspects of **data management, clinical trials research, and statistical analysis**.
+Hello and welcome!  
 
-## About Me
+I am **Martin Nyamu Wanjiru**, a passionate **Statistician, Data Analyst, Researcher, and Mathematics Tutor** with over **five years of experience** in statistical analysis, clinical trials research, data management, and quantitative research.
 
-With a strong background in medical statistics and hands-on experience in **clinical trials research**, I specialize in analyzing and managing complex datasets to provide clear, actionable insights. I am proficient in **data analysis, research methodology, and statistical consulting**.
+I specialize in transforming complex data into meaningful insights that support evidence-based decision-making in research, healthcare, education, and business.
 
-## Skills and Tools
+---
 
-### Research & Data Analysis
-- Experienced in **clinical trials** and health-related research, focusing on evidence-based results to guide decision-making.
-- Skilled in **data management** and **quality control** for large-scale datasets.
+# About Me
 
-### Technical Skills
-- **Quarto**: Expertise in creating dynamic documents, reports, and presentations.
-- **LaTeX**: Skilled in typesetting documents for publication, particularly in academic and professional contexts.
-- **GitHub**: Proficient in version control, collaborating on projects, and sharing research code.
+I hold a strong background in **Medical Statistics** with extensive experience in:
 
-### Statistical Software
-- **R**: Advanced user for statistical modeling, data wrangling, and visualization.
-- **Python**: Skilled in data analysis, machine learning, and research applications.
-- **Excel**: Proficient in **advanced Excel** for data manipulation and analysis.
+- Clinical trials and health research
+- Statistical modeling and data analysis
+- Research methodology and biostatistics
+- Data management and quality assurance
+- Academic writing and technical reporting
+- Mathematics and statistics tutoring
 
-## Contact Me
-Feel free to connect with me to learn more about my work or discuss potential collaborations!
+I am passionate about helping researchers, students, and organizations solve real-world problems using data-driven approaches.
 
-- Email: analystnyamu79@gmail.com
+---
 
+# What I Do
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## 📊 Statistical Analysis & Research
+
+I provide professional support in:
+
+- Data cleaning and management
+- Descriptive and inferential statistics
+- Regression modeling
+- Epidemiological analysis
+- Clinical trial data analysis
+- Survey and questionnaire analysis
+- Research proposal development
+- Thesis and dissertation support
+
+---
+
+## 📚 Mathematics & Statistics Tutoring
+
+I am also an experienced **Mathematics and Statistics Tutor**, helping students understand concepts clearly and improve their academic performance.
+
+### Areas I Teach
+- Basic Mathematics
+- Algebra & Calculus
+- Probability & Statistics
+- Biostatistics
+- Research Methods
+- Data Analysis using R & Python
+
+---
+
+# Technical Skills
+
+## Programming & Data Tools
+
+- **R Programming**
+  - Statistical modeling
+  - Data visualization
+  - Reproducible research
+
+- **Python**
+  - Data analysis
+  - Machine learning
+  - Automation
+
+- **Excel**
+  - Advanced formulas
+  - Dashboards
+  - Data management
+
+---
+
+## Documentation & Publishing
+
+- **Quarto**
+  - Dynamic reports
+  - Books and websites
+  - Interactive dashboards
+
+- **LaTeX**
+  - Academic publishing
+  - Professional reports
+  - Scientific documentation
+
+- **Git & GitHub**
+  - Version control
+  - Collaborative research
+  - Project management
+
+---
+
+# Professional Interests
+
+My professional interests include:
+
+- Clinical trials research
+- Mathematical epidemiology
+- Public health analytics
+- Statistical consulting
+- Educational technology
+- Reproducible research
+
+---
+
+# Teaching Profiles
+
+## TeacherOn
+
+<a href="https://www.teacheron.com/tutor/dDNR?r=dDNR" target="_blank" style="display: inline-block;">
+  <img src="https://www.teacheron.com/resources/assets/img/badges/proudToBeTeacher.png" 
+       alt="TeacherOn Badge"
+       style="width: 160px !important; height: 68px !important;">
+</a>
+
+---
+
+## Preply Tutor Profile
+
+🔗 <https://preply.com/en/tutor/102126>
+
+---
+
+# Contact Me
+
+I am open to:
+
+- Research collaborations
+- Statistical consulting
+- Data analysis projects
+- Mathematics and statistics tutoring
+- Academic writing support
+
+📧 **Email:** <analystnyamu79@gmail.com>
+
+---
+
+# Let’s Work Together
+
+Whether you need support in research, data analysis, statistical modeling, or tutoring, I would be happy to collaborate with you.
+
+Thank you for visiting my portfolio.

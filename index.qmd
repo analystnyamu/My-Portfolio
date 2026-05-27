@@ -1,5 +1,5 @@
 ---
-title: "Martin Nyamu Wanjiru | Statistician & Mathematics Tutor"
+title: "Martin N. W. | Statistician & Mathematics Tutor"
 subtitle: "Data Analyst • Clinical Trials Researcher • Statistical Consultant"
 format:
   html:
@@ -131,7 +131,9 @@ My professional interests include:
 
 ## Preply Tutor Profile
 
-🔗 <https://preply.com/en/tutor/102126>
+<a href="https://preply.com/en/tutor/102126" target="_blank" class="btn btn-success btn-lg">
+  📘 View My Preply Tutor Profile
+</a>
 
 ---
 

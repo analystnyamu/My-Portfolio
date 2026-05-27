@@ -12,7 +12,7 @@ format:
 
 Hello and welcome!  
 
-I am **Martin Nyamu Wanjiru**, a passionate **Statistician, Data Analyst, Researcher, and Mathematics Tutor** with over **five years of experience** in statistical analysis, clinical trials research, data management, and quantitative research.
+I am **Martin N. W.**, a passionate **Statistician, Data Analyst, Researcher, and Mathematics Tutor** with over **five years of experience** in statistical analysis, clinical trials research, data management, and quantitative research.
 
 I specialize in transforming complex data into meaningful insights that support evidence-based decision-making in research, healthcare, education, and business.
 
